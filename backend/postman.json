@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "4595dcb6-d2ce-4534-9b96-9398b67425e2",
+		"name": "DevTeam",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47920204",
+		"_collection_link": "https://thesupperdude-89-s-team.postman.co/workspace/Team-Workspace~4c84b10a-3c03-45ba-8516-63ed716c4364/collection/47920204-4595dcb6-d2ce-4534-9b96-9398b67425e2?action=share&source=collection_link&creator=47920204"
+	},
+	"item": [
+		{
+			"name": "get All Teams",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "meetings by teams",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
